@@ -5,15 +5,16 @@ This project demonstrates a basic **home network security configuration** using 
 
 
 ## 🖥️ Network Topology
-topology_diagram-homenetwork.png
+topology_diagram-homenetwork
 
 ### Devices Used:
 - **1 Router:** IP Address: `192.168.1.1`
 - **1 Switch:** IP Address: `192.168.1.2`
-- **1 PC:** IP Address: `192.168.1.10`
-- **1 Printer:** IP Address: `192.168.1.20`
-- **1 Laptop:** IP Address: `192.168.1.30`
-- **1 Smartphone (Wireless Device)**
+- **PC 0:** IP Address: `192.168.1.04`
+- **PC 1:** IP Address: `192.168.1.05`
+- **1 Printer:** IP Address: `192.168.1.06`
+- **1 Laptop:** IP Address: `192.168.1.07`
+- **1 Smartphone (Wireless Device)**: IP Address: `192.168.1.03`
 
 ---
 
