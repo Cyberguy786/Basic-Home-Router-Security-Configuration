@@ -5,7 +5,7 @@ This project demonstrates a basic **home network security configuration** using 
 
 
 ## 🖥️ Network Topology
-topology_diagram-homenetwork
+(topology_diagram-homenetwork.png)
 
 ### Devices Used:
 - **1 Router:** IP Address: `192.168.1.1`
